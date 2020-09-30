@@ -1,7 +1,7 @@
 # Java Webapps: servlets
 En este repositorio entontrarás las java webapps implementadas y/o utilizadas en clase 
 
-## mvc.webapp
+## mvc-webapp
 Muestra la adopción del patrón de diseño MVC. 
 
 <p>
