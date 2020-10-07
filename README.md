@@ -14,4 +14,4 @@ Una vez realizado el deployment en tu Web Container, utiliza la siguiente URL: h
 
 ## httpsession-webapp 
 
-Muestra cómo implementar **Session Tracking** para usuarios de la webpp  a través de la clase **HttpSession**. 
+Muestra cómo implementar **Session Tracking** para usuarios de la webapp  a través de la clase **HttpSession**. 
