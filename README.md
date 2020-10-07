@@ -11,3 +11,7 @@ Muestra la adopción del patrón de diseño MVC.
 <p>
 Una vez realizado el deployment en tu Web Container, utiliza la siguiente URL: http://localhost:8080/mvc-webapp/ para consumir la webapp.
 </p>
+
+## httpsession-webapp 
+
+Muestra cómo implementar **Session Tracking** para usuarios de la webpp  a través de la clase **HttpSession**. 
